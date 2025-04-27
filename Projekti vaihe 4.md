@@ -11,8 +11,8 @@ Projekti toimii yksinkertaisena verkkosovelluksena, jossa on kaksi päätoiminna
 Käyttäjät voivat etsiä tavaroita nimellä ja tarkastella niiden ajankohtaisia hintoja sekä hinnan muutoksia. Samalla he voivat osallistua keskusteluihin foorumilla, joka tarjoaa paikan pelin ympärille rakentuneelle yhteisölle.
 
 Projektin käyttötarkoitukset:
-1. Tavaroiden hintojen haku. Toimiiko se? Kyllä.
-2. Foorumi johon voi postailla ja lukea muiden kirjoituksia. Toimiiko se? Kyllä.
+1. Tavaroiden hintojen haku. Toimiiko se? Kyllä. videolla kohdassa 0:30
+2. Foorumi johon voi postailla ja lukea muiden kirjoituksia. Toimiiko se? Kyllä. videolla kohdassa 2:16
 
 Tekninen toteutus:
 Käytetyt teknologiat:
